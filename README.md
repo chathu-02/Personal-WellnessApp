@@ -15,7 +15,7 @@ A dedicated mobile application built with **Kotlin** to help users track their m
 * **Mood Logger:** Record and review emotional states with `MoodEntry` to gain insights into overall wellness.
 * **Smart Reminders:** Integrated `ReminderScheduler` and `Receiver` to provide timely notifications for tasks.
 * **Home Screen Widget:** Includes a custom `HabitWidget` for quick task visibility without opening the app.
-![App UI Interface](app_ui.png)
+![App UI Interface](app_ui png.jpeg)
 ### 📂 Architecture & Components
 * `MainActivity.kt`: Manages the core user interface and app flow.
 * `PreferenceRepository.kt`: Handles persistent data storage logic.
